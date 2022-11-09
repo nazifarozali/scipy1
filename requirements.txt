@@ -6,3 +6,8 @@ seaborn
 matplotlib
 sklearn
 numpy
+sweetwiz
+metrics
+matplotlib.pyplot
+confusion_matrix
+accuracy_score
